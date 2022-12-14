@@ -1,0 +1,44 @@
+
+.bc {
+	background-image: url(../assets/images/parallax/map.jpg);
+}
+.local-button{
+	width:10px; 
+	height:10px; 
+	display:flex; 
+	justify-content:center; 
+	align-items:center;
+	background-color:green;
+	border:none;
+}
+div .local-div{
+	background-color:green; 
+	border-radius:5px; 
+	margin-right:4px
+}
+.locali-div{
+    background-color:white; 
+    border-radius:5px; 
+    margin-right:4px
+}
+.locali-button{
+    width:10px; 
+    height:10px; 
+    display:flex; 
+    justify-content:center; 
+    align-items:center;
+    background-color:white;
+    border:none
+}
+i.locali-icon{
+    color:green;
+}
+i.local-icon{
+    color:white;
+}
+.locali-text-invisible{
+    display: none;
+}
+.locali-text-visible{
+    visibility: initial;
+}
